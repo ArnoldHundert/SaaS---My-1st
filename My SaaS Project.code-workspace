@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../../Computer Pros/Web Page Developement/Component Library, My"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "My SaaS Project"
+	}
+}
